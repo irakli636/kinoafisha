@@ -368,7 +368,8 @@
 }
 
 .btn {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  margin-right: 100px;
 
 }
 
@@ -454,7 +455,7 @@
   width: 100%;
   display: flex;
   margin-left:20px;
-  margin-top:55px;
+  margin-top:65px;
   margin-bottom: 15px;
   justify-content: space-around;
 }
